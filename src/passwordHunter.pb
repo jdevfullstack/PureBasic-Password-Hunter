@@ -53,6 +53,4 @@ If OpenConsole()
   
   Input()
   
-EndIf 
-; IDE Options = PureBasic 5.00 (Windows - x64)
-; EnableXP
+EndIf
