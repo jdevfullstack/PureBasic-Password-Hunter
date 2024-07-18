@@ -23,6 +23,9 @@ at that time. As such, this project is no longer actively maintained or updated.
 It is kept public for demonstration purposes and may not reflect my current 
 abilities or the latest best practices in the field.
 
+However, feel free to learn from this archived project, 
+preserved as it was during that specific period !
+
 ## Compiling
 Just click `Compile/Run` button in your PureBasic IDE
 or press F5.
