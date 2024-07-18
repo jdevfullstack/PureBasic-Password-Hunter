@@ -23,9 +23,6 @@ at that time. As such, this project is no longer actively maintained or updated.
 It is kept public for demonstration purposes and may not reflect my current 
 abilities or the latest best practices in the field.
 
-Feel free to explore the project and its code. However, be aware that it might 
-use outdated libraries or patterns and is not intended for production use in its current state.
-
 ## Compiling
 Just click `Compile/Run` button in your PureBasic IDE
 or press F5.
@@ -34,4 +31,5 @@ or press F5.
 MIT - the permissive license
 
 ## More PureBasic Projects
+for more PureBasic discussion and other details,
 check the Main Page -> [PureBasic](https://github.com/jdevfullstack/PureBasic)
